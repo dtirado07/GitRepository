@@ -1,2 +1,2 @@
 # GitRepository
-Demo reporitory for Web Bootcamp.
+Demo repository for Web Bootcamp.
